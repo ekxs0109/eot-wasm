@@ -1,0 +1,61 @@
+# 依赖
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+.pnpm-debug.log
+
+# 构建输出
+/dist/
+/wasm-build/
+
+# Emscripten 缓存
+.emscripten_cache/
+.emscripten_sanity
+.emscripten
+
+# 编辑器和IDE
+.idea/
+.vscode/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.swp
+*.swo
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# 操作系统
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# 日志
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# 调试文件
+.nyc_output/
+coverage/
+
+# npm 包文件
+*.tgz
+.npmrc
+
+# dist
+dist/*

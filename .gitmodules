@@ -1,0 +1,6 @@
+[submodule "libeot"]
+	path = libeot
+	url = git@github.com:umanwizard/libeot.git
+[submodule "ttf2eot"]
+	path = ttf2eot
+	url = git@github.com:wget/ttf2eot.git

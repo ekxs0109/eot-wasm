@@ -1,0 +1,36 @@
+{
+  "name": "eot-wasm",
+  "version": "1.0.0",
+  "description": "WebAssembly wrapper for libeot enabling EOT to TTF font conversion in browsers",
+  "main": "dist/eot-wasm.js",
+  "files": [
+    "dist",
+    "examples",
+    "README.md",
+    "README.zh.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build": "bash ./build.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-username/eot-wasm.git"
+  },
+  "keywords": [
+    "eot",
+    "ttf",
+    "font",
+    "conversion",
+    "webassembly",
+    "wasm",
+    "libeot"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/your-username/eot-wasm/issues"
+  },
+  "homepage": "https://github.com/your-username/eot-wasm#readme"
+}
